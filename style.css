@@ -1,0 +1,42 @@
+*{
+	margin: 0 auto;
+	padding: 0 auto;
+}
+
+body{
+	background-color: white;
+}
+
+h1{
+	color: #045;
+	font-family:"Times New Roman";
+	font-size: 1000px;
+}
+
+p{
+	color: #045;
+	font-family:"Times New Roman";
+	font-style: italic;
+	font-size: 20px;
+}
+
+.quote_wrap{
+	color: #045;
+	width: 50%;
+	border-radius: 5px;
+	margin-top: 20px;
+	padding: 5px;
+	font-family:"Times New Roman";
+	height: auto;
+	font-size: 30px;
+	text-align: center;
+}
+
+.author{
+	color: black;
+	font-size: 70px;
+}
+
+.quote{
+	font-family: 'Candal', sans-serif;
+}
